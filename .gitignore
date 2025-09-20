@@ -1,6 +1,6 @@
 research-rag/
 .vscode
-db/
+database/
 test.py
 storage/
 # Byte-compiled / optimized / DLL files
